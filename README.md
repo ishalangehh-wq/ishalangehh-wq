@@ -11,7 +11,7 @@
 - 📁 Check out my latest project: [Employee Analysis](https://github.com/ishalangehh-wq/Employee_Analysis)
 - 🌱 Constantly improving my data visualization and storytelling skills  
 - 📬 Reach me at: ishalangehh@gmail.com 
-- ⚡ Fun fact: I love turning into beautiful stories!
+- ⚡ Fun fact: I love turning messy data into beautiful stories!
 
 ### 🛠️ Tech Stack
 Python | Pandas | NumPy | Power BI | Excel | SQL | Git | GitHub  
