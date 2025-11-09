@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Isha Langeh!
 
 🎯 **Aspiring Data Analyst** passionate about transforming raw data into meaningful insights.  
-💻 Skilled in **Python, Pandas, NumPy, Excel, Power BI, and SQL**.  
+💻 Skilled in **Python, Pandas, NumPy,Seaborn, Matplotlib, Excel, Power BI, and SQL**.  
 📊 Love exploring data, finding trends, and building clean visualizations.
 
 
