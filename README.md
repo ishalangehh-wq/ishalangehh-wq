@@ -8,7 +8,7 @@
 ### 🧩 About Me
 - 🎓 Electronics & Communication Engineering graduate (2022)
 - 💡 Currently learning: Data Analytics & Dashboard Building  
-- 📁 Check out my latest project: [Employee Analysis](https://github.com/ishalangehh-wq/Employee_Analysis)
+- 📁 Check out my latest project: [Sales-Data-Analysis](https://github.com/ishalangehh-wq/sales-data-analysis-using-python-and-library-seaborn-pandas-matplotlib-)
 - 🌱 Constantly improving my data visualization and storytelling skills  
 - 📬 Reach me at: ishalangehh@gmail.com 
 - ⚡ Fun fact: I love turning messy data into beautiful stories!
