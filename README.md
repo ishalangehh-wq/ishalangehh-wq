@@ -11,7 +11,7 @@
 - 📁 Check out my latest project: [Sales-Data-Analysis](https://github.com/ishalangehh-wq/sales-data-analysis-using-python-and-library-seaborn-pandas-matplotlib-)
 - 🌱 Constantly improving my data visualization and storytelling skills  
 - 📬 Reach me at: ishalangehh@gmail.com
-- LinkedIn profile:(https://www.linkedin.com/in/isha-langeh-a30ba41aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- LinkedIn profile: (https://www.linkedin.com/in/isha-langeh-a30ba41aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - ⚡ Fun fact: I love turning messy data into beautiful stories!
 
 ### 🛠️ Tech Stack
