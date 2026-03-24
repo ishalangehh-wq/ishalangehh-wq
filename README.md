@@ -15,7 +15,7 @@
 - ⚡ Fun fact: I love turning messy data into beautiful stories!
 
 ### 🛠️ Tech Stack
-Python | Pandas | NumPy | Seaborn | Matplotlib | Power BI | Excel | SQL | Git | GitHub  
+Python | Pandas | NumPy | Seaborn | Matplotlib | Power BI | Excel | SQL | Git | GitHub | Tableau | 
 
 ### 📈 GitHub Stats
 ![Isha's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishalangehh-wq&show_icons=true&theme=radical)
