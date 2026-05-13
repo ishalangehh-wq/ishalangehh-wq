@@ -8,7 +8,7 @@
 ### 🧩 About Me
 - 🎓 Electronics & Communication Engineering graduate (2022)
 - 💡 Currently learning: Data Analytics & Dashboard Building  
-- 📁 Check out my latest project: [Ecommerce_sales_Analysis]https://github.com/ishalangehh-wq/ecommerce_sales_analysis.py
+- 📁 Check out my latest project: [job_market-analysis]https://github.com/ishalangehh-wq/job-market-analysis.py
 - 🌱 Constantly improving my data visualization and storytelling skills  
 - 📬 Reach me at: ishalangehh@gmail.com
 - LinkedIn profile: (https://www.linkedin.com/in/isha-langeh-a30ba41aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
